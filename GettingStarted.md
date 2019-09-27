@@ -20,14 +20,23 @@ Fill out all of the required fields including a valid email address (in order to
 
 You will need to create your own unique *Username* which must be between 7 and 30 characters (complete details about each field can be found by hovering your cursor over the field itself).
 
-![sign up form](img/AcceptSubmit.PNG)
+![submit form](img/AcceptSubmit.PNG)
 #### Submit your registration
 
 Review and accept the *Terms of Use* and *Privacy Policy* for using the portal.
 
 Complete the Captcha to confirm that you are not a bot.
 
-Finally, submit your registration.
+Finally, submit your registration and you should be taken to a screen like below.
+
+![congrats](img/CongratsGood.PNG)
+
+#### Check your email
+Find the confirmation message in the email account that you provided earlier.
+
+![email](img/Email.PNG)
+
+Click on the *Activate Your Account Now* link to complete your registration.
 
 
 ### Exploring the APIs
