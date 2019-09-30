@@ -38,13 +38,31 @@ Find the confirmation message in the email account that you provided earlier.
 
 Click on the *Activate Your Account Now* link to complete your registration.
 
+This will open up the developer portal in a new browser window with a success message in the banner.
+
+![account activated](img/AccountActivated.png)
+
+Then, click on the "Login" button in the upper right to log into the developer portal using your newly created credentials.
+
 
 ### Exploring the APIs
 
 From the main portal page, scroll down to the area with the API tiles.
 
-Click on the API of interest.
+![list of apis](img/APITiles.PNG)
 
-This will provide an overview of each API including its main features and possible application.
+You will see a brief description of each API. For more details, click the *Overview* link within the API tile.
+
+![api page](img/APIpage.PNG)
+
+This will provide an overview of each API including its main features and possible use cases.
 
 The detailed API specification are available in the right hand column listed under *Product Specifications*
+
+These specifications are written in well-formatted YAML documents.
+
+![example API spec](img/SampleAPISpecs.PNG)
+
+In the picture above, you can see an element of an API specification: *GET /account/{accountid}* (specifically, the structure of a successful response message (status = 200).
+
+The API specification will show the request and response messages for **all** of the available methods for an API.
