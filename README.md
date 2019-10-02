@@ -72,4 +72,4 @@ A. We have the *merchant codes* API to look up merchant codes. You can either lo
 A. In order to retrieve transaction history, you will need to a valid account number, its product code (type of account) and the corresponding company code.  
 
 ### Q. Where do I find account numbers, product codes and company codes?
-A. The "Account List and Balances" API will provide all of these values for each account owned by a specific user. You can retrieve this list by using the API's POST "user/accounts" method.
+A. The *accounts* API will provide all of these values for each account owned by a specific user. You can retrieve this list by using the API's POST "user/accounts" method.
