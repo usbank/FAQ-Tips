@@ -6,7 +6,7 @@ The process for obtaining a key involves the creation of a project on the portal
 
 #### Creating a project
 
-First, you need to go to the project menu which is located under your name on the right side of th etitle bar.
+First, you need to go to the project menu which is located under your name on the right side of the title bar.
 
 ![project menu](img/ProjectMenu.PNG)
 
@@ -34,7 +34,7 @@ For this hackathon, you will need to use the API key for authentication. You can
 
 #### Adding more API products to your project
 
-If you want to add more API products to your project, you will have to do that from the individual API product page. You can easily get to each API product by
+If you want to add more API products to your project, you will have to do that from the individual API product page. You can easily get to each API product by selecting the *Product* menu on the home page.
 
 ![API product menu](img/ProductMenu.PNG)
 
@@ -48,4 +48,4 @@ When you click this button, you will be taken to the *Add to project* form.
 
 Within the form, select your project name from the drop down box and click *Save* to associate this API product to it.
 
-Alternatively, you can also create a new project from this form. Simply, enter in a new name in the provided box. You can also include an optional description. 
+Alternatively, you can also create a new project from this form. Simply, enter in a new name in the provided box. You can also include an optional description.
