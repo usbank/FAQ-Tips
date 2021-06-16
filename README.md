@@ -5,7 +5,7 @@ More to come
 ## General questions
 
 ### Q. Where do I find the U.S. Bank Developer Portal?
-A. The *Hack to Track: Saving $$$ Bit by Bit* developer portal is located at: [hacktotrack-innovation.usbank.com](https://hacktotrack-innovation.usbank.com).
+A. The developer portal for the *Yackety Hack, Get Caa$h Fast Hackathon* is located at: [hacktotrack-innovation.usbank.com](https://hacktotrack-innovation.usbank.com).
 
 ### Q. Do I need to register on the U.S. Bank Developer portal?
 A. Yes, you will need to register for an account on the Developer Portal in order to view the API documentation and obtain an API key. Complete signup instructions are provided in this folder. Once you complete the signup process, a confirmation email will be sent to this address to activate your account.
