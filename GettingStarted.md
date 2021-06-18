@@ -8,7 +8,7 @@ The *Hack to Track: Saving $$$ Bit by Bit* developer portal is located at: [hack
 
 Self-service registration is quite simple and efficient.
 
-![home page](img/StartPage.PNG)
+![home page](img/YacketyStartPageX.PNG)
 
 #### From the main page, click on the "Get started" button
 This will open a new window with a complete registration form to create a new account.
