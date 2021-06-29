@@ -8,11 +8,12 @@ The process for obtaining a key involves the creation of a project on the portal
 
 **Step 1** In order to create a project, you need to go to the project menu which is located under your name on the right side of the title bar.
 
-![project menu](img/ProjectMenu.PNG)
+<img src="img/ProjectMenu.PNG" alt="project menu" width="400">
+
 
  **Step 2** Click on the *Projects* link to go to your *Projects* page. Here you will find all of your currently defined projects. In the beginning there will be no entries.
 
- ![project page](img/ProjectPage.PNG)
+<img src="img/ProjectPage.PNG" alt="project page" width="550">
 
  **Step 3** Click on the *Create new project* button to bring up the dialog window to define a new project.
 
@@ -29,7 +30,7 @@ The process for obtaining a key involves the creation of a project on the portal
 ### Viewing your API credentials
  The *eye* icon listed under actions allows you to view the details of your created project including its API credentials.
 
-![project created](img/NewProject.png)
+<img src="img/NewProject.png" alt="project created" width="550">
 
 For this hackathon, you will need to use both the API key and the secret for authentication. You can see these values by clicking the *Show* link on the right.
 

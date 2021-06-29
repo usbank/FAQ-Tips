@@ -32,17 +32,19 @@ Complete the Captcha to confirm that you are not a bot.
 
 Finally, submit your registration and you should be taken to a screen like below.
 
-![congrats](img/CongratsGood.PNG)
+<img src="img/CongratsGood.PNG" alt="Congratulations" width="500">
+
 
 **Step 4** Check your email
 Find the confirmation message in the email account that you provided earlier.
 
-![email](img/Email.PNG)
+<img src="img/Email.PNG" alt="email" width="500">
+
 
 **Step 5** Click on the *Activate Your Account Now* link to complete your registration.
 
 This will open up the developer portal in a new browser window with a success message in the banner.
 
-![account activated](img/AccountActivated.png)
+<img src="img/AccountActivated.png" alt="account activated" width="500">
 
 **Step 6** Finally, click on the "Login" button in the upper right to log into the developer portal using your newly created credentials.
